@@ -1,0 +1,15 @@
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\bancos2\bin\Debug\net6.0\bancos2.exe
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\bancos2\bin\Debug\net6.0\bancos2.deps.json
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\bancos2\bin\Debug\net6.0\bancos2.runtimeconfig.json
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\bancos2\bin\Debug\net6.0\bancos2.dll
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\bancos2\bin\Debug\net6.0\bancos2.pdb
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\bancos2\obj\Debug\net6.0\bancos2.csproj.AssemblyReference.cache
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\bancos2\obj\Debug\net6.0\bancos2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\bancos2\obj\Debug\net6.0\bancos2.AssemblyInfoInputs.cache
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\bancos2\obj\Debug\net6.0\bancos2.AssemblyInfo.cs
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\bancos2\obj\Debug\net6.0\bancos2.csproj.CoreCompileInputs.cache
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\bancos2\obj\Debug\net6.0\bancos2.dll
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\bancos2\obj\Debug\net6.0\refint\bancos2.dll
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\bancos2\obj\Debug\net6.0\bancos2.pdb
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\bancos2\obj\Debug\net6.0\bancos2.genruntimeconfig.cache
+C:\Users\hymsoft\Desktop\Curso C# UTN\ejercicio\bancos2\obj\Debug\net6.0\ref\bancos2.dll
